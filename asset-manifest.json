@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dashwave/static/css/main.6e0afeba.css",
+    "main.js": "/dashwave/static/js/main.77083316.js",
+    "index.html": "/dashwave/index.html",
+    "main.6e0afeba.css.map": "/dashwave/static/css/main.6e0afeba.css.map",
+    "main.77083316.js.map": "/dashwave/static/js/main.77083316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0afeba.css",
+    "static/js/main.77083316.js"
+  ]
+}
