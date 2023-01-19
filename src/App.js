@@ -111,7 +111,7 @@ function App() {
         params: {
           q: searchKey,
           type: "track",
-          ...(marketValue ?? { market: marketValue }),
+          ...(marketValue && { market: marketValue }),
         },
       });
       setResult(data.tracks.items);
